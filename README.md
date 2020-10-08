@@ -1,6 +1,6 @@
-# Dataset-Multi-turn-Conversation-with-Quotation
-This the dataset for paper: Continuity of Topic, Interaction, and Query: Learning to Quote in Online Conversations.
-For privacy considerations, please contact Lingzhi Wang for dataset.
+# Dataset: Multi turn Conversation with Quotation
+These are the datasets for paper: Continuity of Topic, Interaction, and Query: Learning to Quote in Online Conversations.
+For privacy considerations, please contact Lingzhi Wang for datasets.
 # Data statistics
 |   | Weibo | Reddit |
 | :---         |     :---:      |          ---: |
